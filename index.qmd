@@ -5,6 +5,73 @@ subtitle: "Instituto de Energías Renovables, UNAM"
 
 
 
+# Solicitud de Apoyos para la Conclusión del Edificio Demostrativo de Diseño Bioclimático en Temixco, Morelos
+
+El Instituto de Energías Renovables (IER) de la Universidad Nacional Autónoma de México (UNAM) ha liderado un proyecto de alto impacto para la construcción de un edificio demostrativo de diseño bioclimático en Temixco, Morelos. Este municipio enfrenta una tasa de pobreza cercana al 40%, y el proyecto tiene como objetivo no solo beneficiar a la comunidad estudiantil del IER, sino también servir como un referente para la región y el país.
+
+
+![Edificio en su estado actual](images/edificio_drone.png){group='actual'}
+
+Este edificio, denominado *Edificio de Docencia*, está destinado a albergar la Licenciatura en Ingeniería en Energías Renovables, formando a futuros tomadores de decisiones en el ámbito de las energías renovables en México. El diseño bioclimático del edificio optimiza el consumo de energía al aprovechar el clima cálido semihúmedo de la región, lo que contribuirá a la reducción del consumo de energía y emisiones de gases de efecto invernadero.
+
+El proyecto ha sido financiado parcialmente por el Fondo de Sustentabilidad Energética, el Gobierno del Estado de Morelos y la UNAM. Sin embargo, debido a la extinción de dicho fondo en 2020 y a las políticas de austeridad de la UNAM, la construcción del edificio quedó inconclusa. Actualmente, se requiere financiamiento para finalizar el nivel 2, la azotea que funcionará como laboratorio, y la implementación de sistemas de enfriamiento de bajo consumo energético.
+
+## Necesidades de Financiamiento
+
+| Concepto                                    | Monto (MN)  |
+| ------------------------------------------- | ----------- |
+| Sistema de Enfriamiento Evaporativo          | $XX         |
+| Sistema de Enfriamiento Radiativo            | $430,000    |
+| Construcción del Nivel 2 y Azotea-Laboratorio| $XX         |
+
+El *Edificio de Docencia* es un ejemplo tangible de cómo el diseño arquitectónico puede responder a los desafíos climáticos de la región, promoviendo el confort térmico sin recurrir a sistemas de aire acondicionado tradicionales, lo que reduce significativamente el consumo energético y las emisiones de CO2.
+
+Además de su impacto en la formación de estudiantes, se espera que el edificio sea un modelo para la comunidad de Temixco y Morelos, y un centro de referencia para diseñadores y constructores a nivel nacional. Los fondos solicitados son esenciales para completar este innovador proyecto, que seguirá aportando al desarrollo de tecnologías sostenibles y a la mitigación del cambio climático en México.
+
+**Contacto:**
+Para más información y detalles sobre cómo apoyar este proyecto, favor de contactar a [Nombre del Responsable] en [Correo Electrónico].
+
+
+
+
+
+<nav>
+  <ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; background-color: #f2f2f2; margin-bottom: 20px;">
+    <li style="flex: 1 1 auto; text-align: center;"><a href="#antecedentes" style="padding: 10px 20px; display: block; text-decoration: none;">Antecedentes</a></li>
+    <li style="flex: 1 1 auto; text-align: center;"><a href="#evaporativo" style="padding: 10px 20px; display: block; text-decoration: none;">Evaporativo</a></li>
+    <li style="flex: 1 1 auto; text-align: center;"><a href="#radiativo" style="padding: 10px 20px; display: block; text-decoration: none;">Radiativo</a></li>
+    <li style="flex: 1 1 auto; text-align: center;"><a href="#temario" style="padding: 10px 20px; display: block; text-decoration: none;">Construcción</a></li>
+  </ul>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Edificio demostrativo de diseño bioclimático en Temixco, Morelos.
