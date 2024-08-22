@@ -4,3 +4,9 @@ project:
 format:
   html:
     theme: spacelab
+
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
