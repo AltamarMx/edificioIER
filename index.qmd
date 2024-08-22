@@ -1,276 +1,54 @@
 ---
 title: "Edificio Demostrativo Bioclimatico"
-subtitle: "Domina el manejo y visualización de series temporales"
+subtitle: "Instituto de Energías Renovables, UNAM"
 ---
 
 
-<nav>
-  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; background-color: #f2f2f2; margin-bottom: 20px;">
-    <li><a href="https://forms.gle/314S3BKSsb9DsqkZ9" style="padding: 10px 20px; display: block; text-decoration: none;">Inscribirme</a></li>
-  </ul>
-</nav>
 
 
 
+## Edificio demostrativo de diseño bioclimático en Temixco, Morelos.
 
-## Bootcamp de Python de 2 semanas
-
-En este bootcamp de dos semanas de duración aprenderás desde  instalar Python y Jupyter notebook hasta los pasos iniciales para dominar la visualización y herramientas útiles para el manejo y análisis de series temporales. 
-
-Puedes hacerlo de manera presencial o de manera remota. Las sesiones se llevan a cabo en Temixco, Morelos en el IER-UNAM o por sesiones de video conferencia.
-
-::: {.callout-note }
-## Bootcamp de UNA o DOS semanas
-El bootcamp está dividido en **dos partes**, durante la **semana 1** se aprenden los conceptos básicos de Python y de manejo de series temporales y cómo visualizarlas. 
-
-En la **semana 2** se abordan tres proyectos y las herramientas necesarias para desarrollarlos y adquirir expertiz en el manejo de series temporales.
-::: 
-
-::: {.callout-tip }
-## Semana Uno
-
-Aprenderás los conceptos básicos de Python, manejo de la libreta de Jupyter y el manejo básico y visualización de series temporales usando pandas y matplotlib.
-:::
-
-::: {.callout-tip }
-## Semana Dos
-
-Aprenderás estrategias avanzadas de pandas, numpy y matplotlib así como buenas estrategias de desarrollo de proyectos de ciencia de datos. Trabajarás en tres proyectos para consolidar lo aprendido.
-:::
+El Instituto de Energías Renovables de la Universidad Ncional Autónoma de México cuenta con el Instituto de Energías Renovables ubicado en Temixco, Morelos. El municipio de Temixco es municipio con una  tiene una tasa de pobreza cercana al 40%. En 2018 se presentó la oportunidad de realizar  pinició un proyecto que impactara no solo en la comunidad del IER sino también en sus alrededores. El proyecto fue   patrocinado por el entonces Fondo de Sustentabilidad Energética, el Gobierno del Estado de Morelos y la misma UNAM. En dicho proyecto se diseñó y construyó parcialmente un edificio demostrativo de diseño bioclimático para clima cálido semihúmedo. Diseñar y construir las edificaciones de acuerdo al clima del lugar, es decir con criterioscreterios bioclimáticos, es fundamental para lograr el objetivo de disminuir el consumo de energía en las edificaciones y los gases de efecto invernadero asociados.
+ Dicho edificio, denominado Edificio de Docencia, albergará la Licenciatura en Ingeniería en Energías Renovables. Se espera tenga un impacto importante en la formación de los estudiantes que serán los futuros tomadores de decisiones en nuestro país, que sea un edificio de referencia para estudiantes de otras universidades y para diseñadores y constructores de México que podrán realizar visitas técnicas y que sea un referente en Temixco y Morelos.
+Por la extinción del Fondo de Sustentabilidad Energética en el año 2020 y por el programa de austeridad de la UNAM, el Edificio de Docencia se encuentra inconcluso, faltan construir el nivel 2 y la azotea que será un laboratorio. AsimismoAsímismo, se requiererequieren construir e instalar dos sistemas de enfriamiento de bajo consumo de energía ya diseñados dentro del proyecto. 
+La tabla siguiente resume las necesidades de apoyo y los montos correspondientes solicitados para que el proyecto como fue conceptualizado se concluya.
 
 
-::: {.callout-note }
-## Recomendación
+| Necesidades de apoyo                                         | Monto en MN |
+|--------------------------------------------------------------|-------------|
+| Sistema de enfriamiento evaporativo                          |             |
+| Sistema de enfriamiento radiativo                            | $430,000    |
+| Construcción del nivel 2 y de la azotea-laboratorio (sin mobiliario) |             |
 
 
-Si inicias en Python, te recomendamos tomar las dos semanas, si ya tienes experiencia en los conceptos básicos puedes unirte en la segunda semana.
-:::
-
-<nav >
-  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; background-color: #f2f2f2; margin-bottom: 20px;">
-    <li><a href="https://forms.gle/314S3BKSsb9DsqkZ9" style="padding: 10px 20px; display: block; text-decoration: none;">Inscribirme</a></li>
-    <li><a href="#precios" style="padding: 10px 20px; display: block; text-decoration: none;">Precios</a></li>
-    <li><a href="#temario" style="padding: 10px 20px; display: block; text-decoration: none;">Temario</a></li>
-  </ul>
-</nav>
-
-
-## ¿Quiénes pueden participar?
-
-* Estudiantes de tercer semestre de ingeniería en adelante.
-
-* Cualquier persona que requiera aprender manejo y visualización de series temporales
-
-
-
-## ¿Cuándo y dónde?
-
-- **Duración**: 
-    - 40 horas en total de las dos semanas o
-    - 20 horas por semana
-- **Fecha:** 
-    - Semana 1: 5 al 9 de agosto de 2024
-    - Semana 2: 12 al 16 de agosto de 2024
-- **Lugar:** 
-    - Presencial en las instalaciones del IER o 
-    - Sesiones a distancia a través de Zoom
-- **Horario:**
-    - 4 horas por día
-    - 15:00 a 19:00 horas
-
-## Requisitos:
-- Computadora con espacio de 1 GB para instalar Python y Jupyter notebook
-- Permisos de administrador  para poder instalar programas 
-- Familiaridad con series temporales
-
-
-### <a id="precios"></a>Precios
-
-##### Bootcamp por UNA semana
-
-| Inversión general | Comunidad académica y exalumnes UNAM  | Comunidad estudiantil |
-|-------------------|---------------------------------------|-------------------------|
-| $1,250 MXN        | $1,000 MXN*                            | $750 MXN               |
-
-##### Bootcamp completo
-
-| Inversión general | Comunidad académica y exalumnes UNAM | Comunidad estudiantil |
-|-------------------|---------------------------------------|-------------------------|
-| $2,500 MXN*       | $2,000 MXN*                            | $1,500 MXN*             |
-
-::: {.callout-tip }
-## Comunidad estudiantil IER-UNAM
-
-Si perteneces a la Comunidad estudiantil del IER UNAM, pregunta por los descuentos adicionales a los publicados
-:::
 
 
 <nav >
   <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; background-color: #f2f2f2; margin-bottom: 20px;">
-    <li><a href="https://forms.gle/314S3BKSsb9DsqkZ9" style="padding: 10px 20px; display: block; text-decoration: none;">Inscribirme</a></li>
-    <li><a href="#precios" style="padding: 10px 20px; display: block; text-decoration: none;">Precios</a></li>
-    <li><a href="#instructores" style="padding: 10px 20px; display: block; text-decoration: none;">Instructores</a></li>
+    <li><a href="#antecedentes" style="padding: 10px 20px; display: block; text-decoration: none;">Antecedentes</a></li>
+    <li><a href="#evaporativo" style="padding: 10px 20px; display: block; text-decoration: none;">Evaporativo</a></li>
+    <li><a href="#radiativo" style="padding: 10px 20px; display: block; text-decoration: none;">Radiativo</a></li>
+    <li><a href="#temario" style="padding: 10px 20px; display: block; text-decoration: none;">Construcción</a></li>
   </ul>
 </nav>
 
 
-### <a id="temario"></a>Temario
-::: {.panel-tabset}
-### Semana 1
-**Objetivo:** Aprender los conceptos básicos de Python, la libreta de Jupyter y el manejo básico y visualización de series temporales con Pandas y Matplotlib.
 
-#### Día 1
-- Qué es Python y la libreta de Jupyter
-- Por qué no Anaconda, ventajas y desventajas de Google Collaboratory
-- Instala y ejecuta Jupyter Notebook en diferentes OS
-- Ejercicio: Instala Jupyter notebook 
-- Paseo por la libreta de Jupyter
-- Sintaxis en Python
-- Tipos de celdas
-- Ejecuta Jupyter donde quieres
-- Estructura de archivos recomendada con numeración libretas
-- Ejercicio: print(“hola mundo”) con botones y shortcuts
-- Acceso a la documentación
-- Errores comunes
-- Ejercicio: Crea un espacio de trabajo e imagina tu proceso con numeración de libretas, archivos de datos, resultados
-
-#### Día 2
-- Enteros, dobles, complejos
-- Cadenas
-- Booleanos
-- Listas
-- Tuplas
-- Iterables
-- Uso simple de print()
-- Ejercicios con listas, tuplas y diccionarios
-
-#### Día 3
-- if
-- while
-- for
-- range
-- Uso de variables iterables en ciclos for 
-- Funciones
-- List comprehension
-- Magic commands 
-- Ejercicios con list comprehensions
-
-#### Día 4
-- Introducción a pandas
-- Carga datos de csv y hojas de cálculo
-- df.read_csv
-- df.read_excel xls y xlsx
-- df.read_csv con fecha completa
-- df.read_csv con fecha separada
-- df.info()
-- df.describe()
-- df.dtypes
-<!-- ### Sesión 11 -->
-- Operaciones y visualización de datos tipo x,y
-- Crear archivo x,y,error desde la libreta de Jupyter
-- Visualizar archivo con df.plot
-<!-- ### Sesión 12 -->
-- Operaciones y visualización de datos categóricos
-- Ejemplo del SNI
-
-#### Día 5
-- Carga y visualiza series temporales
-- df.plot(subplots=True,figsize)
-- df[lista].plot()
-- df[fecha].plot()
-- df[fecha][lista].plot()
-- df.variable.plot()
-- Operaciones básicas con series temporales
-- df.sum() aclarar que se puede df.variable.sum() df[lista].sum(), df[fecha].variable.sum()
-- df.between_time
-- Une dos archivos o más
-- pd.concat y pd.merge con mismo indice temporal y diferente
-- Introducción a matplotlib y POO
-
-### Semana 2
-**Objetivo:** Aprender estrategias avanzadas de Pandas, Numpy y Matplotlib así como buenas estrategias de desarrollo de proyectos de ciencia de datos mediante el desarrollo de tres proyectos.
-
-#### Día 1
-- Bienvenida y dinámica de la semana de proyectos
-- Repos con datos y plantillas
-- Post it por si requieren apoyo
-- Deben seleccionar un proyecto de los tres que se presentaran
-- Planteamiento del proyecto 
-- opencv
-- Extrae imágenes de un video
-- f-print para renombrar archivos
-- Escribir paquetes locales para uso en Jupyter
-- Lee una imagen con numpy
-- Lee una imagen con opencv
-- Visualiza una imagen con matplotlib
-- Localiza un círculo y su centro con opencv
-- Ejercicio: Localiza el centro de un conjunto de imágenes
-- Ejercicio: Calcula la velocidad y aceleración de caída de un objeto
-- Tips para calcular la velocidad
-
-#### Día 2
-- Planteamiento del proyecto de análisis y visualización meteorológica
-- Quarto: convierte una libreta de Jupyter a un reporte
-- Ipywidgets para interacciones en la libreta de Jupyter
-- Instala iertools desde repositorios
-- Ejercicio: Propón un reporte de visualización de un archivo de clima
-- Revisión del reporte de visualización
-- Presentación de un ejemplo desarrollado en Quarto
-
-#### Día 3
-- Planteamiento del proyecto Patrones climáticos y su impacto en la demanda eléctrica
-- Presentación de los datos meteorológicos y de la demanda eléctrica
-- Ubicación espacial con Cartopy
-- Identificación de las variables de interés (correlaciones entre la demanda y otras variables)
-- Análisis estadísticos y valores anómalos
-- Ajuste de polinomios entre la demanda y las variables 
-- Identificación de tendencias 
-- Diferentes visualizaciones: boxplots, violin, swarm, jointplot
-- Diferentes escalas temporales (heatmap)
-- Identificación de patrones
-
-#### Día 4
-- fig, ax, todo lo que necesitas saber de matplotlib
-- Bokeh
-- Ambientes virtuales
-- Numpy
-- Quarto para presentaciones y documentos ( Parte 2)
-- Datos categoricos avanzados
-- Desarrollo de proyecto
-
-#### Día 5
-- Presentación de proyectos
-- Cierre, recapitulación de buenas prácticas
-:::
+### <a id="antecedentes"></a>Antecedentes 
 
 
-### <a id="instructores"></a>Conoce a los expertos
-#### Guillermo Barrios del Valle
-<div style="display: flex; align-items: center;">
-  <img src="images/memo.png" alt="Descripción de la imagen" style="height: 250px; margin-right: 20px;">
-  <p>Investigador del IER-UNAM, desarrolla sus labores de investigación en el área de Energía en Edificaciones. Programador experto en Python con una sólida trayectoria en el análisis térmico y energético de edificaciones. Ha creado dos MOOC en Coursera, capacitando a cientos de estudiantes en el dominio de Python. Ha desarrollado herramientas innovadoras como EnerHabitat y ha sido coautor del método EHLS para EnergyPlus. Experto en manejo y visualización de series temporales, ha desarrollado paquetes en Python para el uso de su grupo de investigación.
-
-</p>
-</div>
+El Instituto de Energías Renovables (IER) de laLa Universidad Nacional Autónoma de México (UNAM) estácuenta con el Instituto de Energías Renovables (IER) ubicado en Temixco, Morelos. Temixco es un municipio periurbano a Cuernavaca, que tiene una tasa de pobreza alta (37%). El Instituto de Energías Renovables dDesde su fundación como  Laboratorio de Energía Solar, en la década de los 80s del siglo pasado, el Instituto de Energías Renovables ha buscado tener incidencia en su entorno inmediato y en el estado de Morelos. 
 
 
 
-#### Kevin Alquicira Hernández
-<div style="display: flex; align-items: center;">
-  <img src="images/kevin.png" alt="Descripción de la imagen" style="height: 250px; margin-right: 20px;">
-  <p>Técnico académico en el Instituto de Energías Renovables de la UNAM. Es  desarrollador de software desde hace 13 años. Sus áreas de aplicación en cómputo son como administrador de servidores linux, administrador de cómputo de alto rendimiento y administrador de sistemas.
-Gran parte de su experiencia profesional ha sido programando en Python para procesar grandes volúmenes de datos, scripts de automatización, administración de servidores y desarrollo de programas para análisis de datos.</p>
-</div>
+### <a id="evaporativo"></a>Sistema de enfriamiento evaporativo
+### <a id="radiativo"></a>Sistema de enfriamiento radiatico
+### <a id="construccion"></a>Construcción del nivel 2 y azotea
 
 
 
-#### Diego Arturo Canul Reyes
 
-<div style="display: flex; align-items: center;">
-  <img src="images/diego.png" alt="Descripción de la imagen" style="height: 250px; margin-right: 20px;">
-  <p>Es Ingeniero en Energía por parte de la Universidad Autónoma de Campeche y Maestro en Ingeniería por IER-UNAM, obteniendo ambos grados con mención honorífica. Actualmente, es candidato a Doctor en Ingeniería en el IER-UNAM. Sus intereses profesionales están enfocados al análisis y modelado del recurso eólico utilizando datos experimentales y modelos meteorológicos, así como el análisis dinámico de turbinas eólicas flotantes. Es un apasionado de la programación en Python, del cual ha impartido diversos cursos desde lo básico hasta sus aplicaciones en
-ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Python – Latin America” (ASPP LatAm)</p>
-</div>
 
 
 ## Contacto
