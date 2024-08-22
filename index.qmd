@@ -10,6 +10,10 @@ subtitle: "Instituto de Energías Renovables, UNAM"
 ## Edificio demostrativo de diseño bioclimático en Temixco, Morelos.
 
 El Instituto de Energías Renovables de la Universidad Ncional Autónoma de México cuenta con el Instituto de Energías Renovables ubicado en Temixco, Morelos. El municipio de Temixco es municipio con una  tiene una tasa de pobreza cercana al 40%. En 2018 se presentó la oportunidad de realizar  pinició un proyecto que impactara no solo en la comunidad del IER sino también en sus alrededores. El proyecto fue   patrocinado por el entonces Fondo de Sustentabilidad Energética, el Gobierno del Estado de Morelos y la misma UNAM. En dicho proyecto se diseñó y construyó parcialmente un edificio demostrativo de diseño bioclimático para clima cálido semihúmedo. Diseñar y construir las edificaciones de acuerdo al clima del lugar, es decir con criterioscreterios bioclimáticos, es fundamental para lograr el objetivo de disminuir el consumo de energía en las edificaciones y los gases de efecto invernadero asociados.
+
+![Edificio en su estado actual](images/edificio_drone.png)
+
+
  Dicho edificio, denominado Edificio de Docencia, albergará la Licenciatura en Ingeniería en Energías Renovables. Se espera tenga un impacto importante en la formación de los estudiantes que serán los futuros tomadores de decisiones en nuestro país, que sea un edificio de referencia para estudiantes de otras universidades y para diseñadores y constructores de México que podrán realizar visitas técnicas y que sea un referente en Temixco y Morelos.
 Por la extinción del Fondo de Sustentabilidad Energética en el año 2020 y por el programa de austeridad de la UNAM, el Edificio de Docencia se encuentra inconcluso, faltan construir el nivel 2 y la azotea que será un laboratorio. AsimismoAsímismo, se requiererequieren construir e instalar dos sistemas de enfriamiento de bajo consumo de energía ya diseñados dentro del proyecto. 
 La tabla siguiente resume las necesidades de apoyo y los montos correspondientes solicitados para que el proyecto como fue conceptualizado se concluya.
