@@ -14,10 +14,10 @@ Por la extinción del Fondo de Sustentabilidad Energética en el año 2020 y por
 La tabla siguiente resume las necesidades de apoyo y los montos correspondientes solicitados para que el proyecto como fue conceptualizado se concluya.
 
 | Necesidades de apoyo                               | Monto  en MN  |
-| -------------------------------------------        | ----------- |
-| Sistema de enfriamiento evaporativo                | $700,000         |
-| Sistema de enfriamiento radiativo                  | $510,000    |
-| Construcción del nivel 2 y de la azotea-laboratorio| $23,340,000       |
+| -------------------------------------------        | ----------:   |
+| Sistema de enfriamiento evaporativo                | 700,000       |
+| Sistema de enfriamiento radiativo                  | 510,000       |
+| Construcción del nivel 2 y de la azotea-laboratorio| 23,340,000    |
 
 
 **Contacto:**
@@ -145,10 +145,10 @@ Se presentan las necesidades de apoyo económico para la conclusión del Edifici
 
 
 | Necesidades de apoyo                                         | Monto en MN |
-|--------------------------------------------------------------|-------------|
-| Sistema de enfriamiento evaporativo                          | $700,000     |
-| Sistema de enfriamiento radiativo                            | $510,000     |
-| Construcción del nivel 2 y de la azotea-laboratorio (sin mobiliario) | $24,340,000  |
+|--------------------------------------------------------------|------------:|
+| Sistema de enfriamiento evaporativo                          | 700,000     |
+| Sistema de enfriamiento radiativo                            | 510,000     |
+| Construcción del nivel 2 y de la azotea-laboratorio (sin mobiliario) | 24,340,000  |
 
 
 
