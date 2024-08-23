@@ -17,7 +17,7 @@ La tabla siguiente resume las necesidades de apoyo y los montos correspondientes
 | -------------------------------------------        | ----------- |
 | Sistema de enfriamiento evaporativo                | $700,000         |
 | Sistema de enfriamiento radiativo                  | $510,000    |
-| Construcción del nivel 2 y de la azotea-laboratorio| $23,340,00        |
+| Construcción del nivel 2 y de la azotea-laboratorio| $23,340,000       |
 
 
 **Contacto:**
